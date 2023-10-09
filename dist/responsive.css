@@ -1,0 +1,12 @@
+
+.calculator {
+  width: 400px; 
+  margin: 0 auto;
+}
+
+
+@media (max-width: 768px) {
+  .calculator {
+    width: 100%; 
+  }
+}
